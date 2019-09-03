@@ -1,0 +1,24 @@
+{
+  "name": "mars-rover-kata-fp-ts",
+  "version": "1.0.0",
+  "description": "mars-rover-kata-fp-ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/de-angelov/mars-rover-kata-fp-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/de-angelov/mars-rover-kata-fp-ts/issues"
+  },
+  "homepage": "https://github.com/de-angelov/mars-rover-kata-fp-ts#readme",
+  "dependencies": {
+    "@types/node": "^12.7.3",
+    "fp-ts": "^2.0.5"
+  }
+}

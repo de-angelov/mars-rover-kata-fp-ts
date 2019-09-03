@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strict": true
+    },
+    "lib": [
+        "DOM",
+        "ES2017",
+    ],
+    "exclude": [
+        //"node_modules",
+    ]
+}
